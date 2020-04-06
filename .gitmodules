@@ -1,0 +1,3 @@
+[submodule "sem2-ay1920/backtranslation"]
+	path = sem2-ay1920/backtranslation
+	url = git@github.com:Cheukyui/Question-Generation_FYP.git
