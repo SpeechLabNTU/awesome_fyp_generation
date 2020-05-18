@@ -4,3 +4,6 @@
 [submodule "sem2-ay1920/SymSub"]
 	path = sem2-ay1920/SymSub
 	url = git@github.com:BPYap/Question-Generation.git
+[submodule "sem2-ay1920/permutation_pipeline"]
+	path = sem2-ay1920/permutation_pipeline
+	url = https://github.com/rajat1433/qna_permute
